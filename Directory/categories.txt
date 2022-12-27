@@ -1,0 +1,5 @@
+¬í {sr  java.io.NotSerializableException(Vx ç†5  xr java.io.ObjectStreamExceptiondÃäk9ûß  xr java.io.IOExceptionl€sde%ð«  xr java.lang.ExceptionÐý>;Ä  xr java.lang.ThrowableÕÆ5'9w¸Ë L causet Ljava/lang/Throwable;L detailMessaget Ljava/lang/String;[ 
+stackTracet [Ljava/lang/StackTraceElement;L suppressedExceptionst Ljava/util/List;xpq ~ 	t lop.Categoriesur [Ljava.lang.StackTraceElement;F*<<ý"9  xp   sr java.lang.StackTraceElementa	Åš&6Ý… B formatI 
+lineNumberL classLoaderNameq ~ L declaringClassq ~ L fileNameq ~ L 
+methodNameq ~ L 
+moduleNameq ~ L moduleVersionq ~ xp  ²pt java.io.ObjectOutputStreamt ObjectOutputStream.javat writeObject0t 	java.baset 18.0.1.1sq ~   jpq ~ q ~ t writeObjectq ~ q ~ sq ~    t appt lop.ShopManagementt ShopManagement.javat mainppsr java.util.Collections$EmptyListz¸´<§žÞ  xpx
